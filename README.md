@@ -1,16 +1,22 @@
-### Hi there 👋
+## 💻 working
+- front-end engineer
+  - HTML5/CSS3/JavaScript
+  - React.js/Vue.js/Nuxt.js
+- server-side engineer
+  - Node.js/PHP
+  - Express/CakePHP
+- other
+  - Docker/Bash/GoogleAppScript/Webpack/Gulp
 
-<!--
-**tamfoi/tamfoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 learning
+- Game Development
+- WebXR
+- WebGL
+- Machine Learning/Deep Learning
+- Computer Science
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 links
+- [twitter](https://twitter.com/tamfoi)
+- [youtube](https://www.youtube.com/channel/UC5pX4EPDqxlRy7j_a84HqBQ)
+- [qiita](https://qiita.com/tamfoi)
+- [hatena](https://tamfoi.hatenablog.com/)
