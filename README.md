@@ -3,7 +3,7 @@
 - game development
 
 ## 🔗 links
-- [twitter](https://twitter.com/tamfoi)
+- [x](https://x.com/tamfoi)
 - [youtube](https://www.youtube.com/channel/UC5pX4EPDqxlRy7j_a84HqBQ)
 - [zenn](https://zenn.dev/tamfoi)
 - [qiita](https://qiita.com/tamfoi)
